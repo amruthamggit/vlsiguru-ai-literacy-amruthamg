@@ -5,7 +5,7 @@
 - [ ]  Explain the intuitive idea of LLM generation
 - [ ]  Recognize AI limitations and the need for verification
 - [ ]  Compare AI assistants, search, and authoritative sources
-- [ ]  xplain prediction, classification, and generation
+- [ ]  Explain prediction, classification, and generation
 - [ ]  Create a personal AI verification protocol
 ## Questions
 - [ ] Q1
