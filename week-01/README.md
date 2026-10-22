@@ -26,3 +26,8 @@
 ### What I understood
 ### What still confuses me
 ### One thing I will verify differently next time
+
+I tools used:- ChatGPT / Gemini / Claude / Other: __________
+Used for:- explanation / brainstorming / comparison / debugging / other: __________
+I independently reviewed and verified the important factual or technical claims in this submission before 
+submitting it.
